@@ -1,0 +1,211 @@
+[  0%] Built target SECU_OSA
+[  0%] Built target HASHTABLE
+[  0%] Built target SECU_CN
+[  1%] Built target LFDS
+[  4%] Built target LFDS7
+Scanning dependencies of target SCHED_LIB
+Scanning dependencies of target UTIL
+Scanning dependencies of target ITTI
+[  4%] [  4%] [  4%] [  4%] Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/LISTS/list.c.o
+Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/CLI/cli_cmd.c.o
+Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/LISTS/list2.c.o
+[  4%] [  4%] Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/LOG/log.c.o
+[  4%] [  4%] [  4%] [  4%] [  4%] [  4%] Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/OCG/OCG.c.o
+Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/MEM/mem_block.c.o
+Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/OCG/OCG_detect_file.c.o
+[  4%] [  4%] [  5%] [  5%] Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/OCG/OCG_create_dir.c.o
+[  5%] [  5%] Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/OCG/OCG_parse_filename.c.o
+Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/OCG/OCG_generate_report.c.o
+Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/OCG/OCG_save_XML.c.o
+[  5%] Building C object CMakeFiles/SCHED_LIB.dir/home/oai/Downloads/LWA/openair1/SCHED/phy_procedures_lte_eNb.c.o
+Building C object CMakeFiles/UTIL.dir/home/oai/Downloads/LWA/openair2/UTIL/OCG/OCG_parse_XML.c.o
+Building C object CMakeFiles/SCHED_LIB.dir/home/oai/Downloads/LWA/openair1/SCHED/phy_procedures_lte_ue.c.o
+[  5%] [  5%] Building C object CMakeFiles/SCHED_LIB.dir/home/oai/Downloads/LWA/openair1/SCHED/phy_procedures_lte_common.c.o
+Building C object CMakeFiles/SCHED_LIB.dir/home/oai/Downloads/LWA/openair1/SCHED/pucch_pc.c.o
+[  5%] Building C object CMakeFiles/SCHED_LIB.dir/home/oai/Downloads/LWA/openair1/SCHED/phy_mac_stub.c.o
+Building C object CMakeFiles/SCHED_LIB.dir/home/oai/Downloads/LWA/openair1/SCHED/pusch_pc.c.o
+Building C object CMakeFiles/SCHED_LIB.dir/home/oai/Downloads/LWA/openair1/SCHED/srs_pc.c.o
+[  5%] Building C object CMakeFiles/ITTI.dir/home/oai/Downloads/LWA/common/utils/itti/intertask_interface_dump.c.o
+Building C object CMakeFiles/ITTI.dir/home/oai/Downloads/LWA/common/utils/itti/intertask_interface.c.o
+Building C object CMakeFiles/ITTI.dir/home/oai/Downloads/LWA/common/utils/itti/signals.c.o
+Building C object CMakeFiles/ITTI.dir/home/oai/Downloads/LWA/common/utils/itti/timer.c.o
+Linking C static library libITTI.a
+[  5%] Built target ITTI
+Scanning dependencies of target RRC_LIB
+Scanning dependencies of target PHY
+[  5%] [  5%] [  5%] [  5%] [  5%] Linking C static library libUTIL.a
+[  5%] [  5%] [  5%] [  5%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/pilots.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/sss.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/pilots_mbsfn.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/pss.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/dlsch_llr_computation.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/dlsch_coding.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/dlsch_modulation.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/dlsch_demodulation.c.o
+[  5%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/power_control.c.o
+[  5%] [  5%] [  5%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/dlsch_decoding.c.o
+[  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/dlsch_scrambling.c.o
+[  7%] [  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/dci_tools.c.o
+[  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/uci_tools.c.o
+[  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/lte_mcs.c.o
+[  7%] [  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/pbch.c.o
+[  7%] [  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/dci.c.o
+[  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/phich.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/pcfich.c.o
+[  7%] [  7%] [  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/pucch.c.o
+[  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/group_hopping.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/pch.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/prach.c.o
+[  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/pmch.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/drs_modulation.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/srs_modulation.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/ulsch_demodulation.c.o
+[  7%] [  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/ulsch_modulation.c.o
+[  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/ulsch_coding.c.o
+[  7%] [  7%] [  7%] [  7%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/rar_tools.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/ulsch_decoding.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/print_stats.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/initial_sync.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/if5_tools.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/if4_tools.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/MODULATION/ofdm_mod.c.o
+[  7%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel14/BCCH-DL-SCH-Message.c.o
+[  8%] Built target UTIL
+[  8%] [  8%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel14/BCCH-DL-SCH-Message-BR.c.o
+Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel14/BCCH-DL-SCH-MessageType-BR-r13.c.o
+[  8%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/MODULATION/slot_fep.c.o
+[  8%] [  8%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/MODULATION/slot_fep_mbsfn.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/MODULATION/slot_fep_ul.c.o
+[  8%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/MODULATION/ul_7_5_kHz.c.o
+[  8%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/MODULATION/beamforming.c.o
+[ 10%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/freq_equalization.c.o
+[ 10%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/lte_sync_time.c.o
+[ 10%] [ 10%] [ 10%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel14/BCCH-DL-SCH-MessageType.c.o
+[ 10%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/lte_adjust_sync.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/lte_sync_timefreq.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/lte_dl_channel_estimation.c.o
+[ 11%] [ 11%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/lte_dl_bf_channel_estimation.c.o
+[ 11%] [ 11%] [ 11%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/lte_est_freq_offset.c.o
+Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel14/SystemInformation-r8-IEs.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/lte_dl_mbsfn_channel_estimation.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/lte_ul_channel_estimation.c.o
+[ 11%] [ 13%] [ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/lte_ue_measurements.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/lte_eNB_measurements.c.o
+Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel14/SystemInformation-BR-r13.c.o
+[ 13%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel14/SystemInformation.c.o
+[ 13%] Building C object CMakeFiles/RRC_LIB.dir/home/oai/Downloads/LWA/openair2/RRC/LITE/MESSAGES/asn1_msg.c.o
+[ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_ESTIMATION/adjust_gain.c.o
+[ 13%] [ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_REFSIG/lte_dl_cell_spec.c.o
+[ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_REFSIG/lte_dl_uespec.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_REFSIG/lte_gold.c.o
+[ 13%] [ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_REFSIG/lte_gold_mbsfn.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_REFSIG/lte_dl_mbsfn.c.o
+[ 13%] [ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/CODING/lte_segmentation.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_REFSIG/lte_ul_ref.c.o
+[ 13%] [ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/CODING/ccoding_byte.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/CODING/ccoding_byte_lte.c.o
+[ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/CODING/3gpplte_sse.c.o
+[ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/CODING/crc_byte.c.o
+[ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/CODING/3gpplte_turbo_decoder_sse_8bit.c.o
+[ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/CODING/3gpplte_turbo_decoder_sse_16bit.c.o
+[ 13%] [ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/CODING/3gpplte_turbo_decoder_avx2_16bit.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/CODING/lte_rate_matching.c.o
+[ 13%] [ 13%] [ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/CODING/rate_matching.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/CODING/viterbi_lte.c.o
+[ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/INIT/lte_init.c.o
+[ 13%] [ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/INIT/lte_param_init.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/TOOLS/lte_dfts.c.o
+Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/INIT/lte_parms.c.o
+[ 13%] Building C object CMakeFiles/PHY.dir/home/oai/Downloads/LWA/openair1/PHY/LTE_TRANSPORT/dlsch_llr_computation_avx2.c.o
+Linking C static library libSCHED_LIB.a
+[ 13%] Built target SCHED_LIB
+Linking C static library libRRC_LIB.a
+Scanning dependencies of target L2
+[ 13%] [ 13%] [ 13%] [ 13%] [ 13%] [ 13%] [ 13%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/PDCP_v10.1.0/pdcp.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/openair2_proc.c.o
+[ 13%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/PDCP_v10.1.0/pdcp_fifo.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/PDCP_v10.1.0/pdcp_primitives.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/PDCP_v10.1.0/pdcp_security.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/PDCP_v10.1.0/pdcp_sequence_manager.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/PDCP_v10.1.0/pdcp_util.c.o
+[ 13%] [ 13%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/PDCP_v10.1.0/pdcp_netlink.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_init.c.o
+[ 14%] [ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_timer_poll_retransmit.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_timer_reordering.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_timer_status_prohibit.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_segment.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_segments_holes.c.o
+[ 14%] [ 14%] [ 14%] [ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_in_sdu.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_retransmit.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_receiver.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_rx_list.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_windows.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_reassembly.c.o
+[ 14%] [ 14%] [ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_status_report.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/TM_v9.3.0/rlc_tm.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/TM_v9.3.0/rlc_tm_init.c.o
+[ 14%] [ 14%] [ 14%] [ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_fsm.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_reassembly.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_segment.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_receiver.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_control_primitives.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_dar.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/rlc_mac.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/rlc.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/rlc_rrc.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/RLC/rlc_mpls.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/RRC/LITE/rrc_UE.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/RRC/LITE/rrc_eNB.c.o
+[ 14%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/RRC/LITE/rrc_eNB_S1AP.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/RRC/LITE/rrc_eNB_UE_context.c.o
+[ 16%] [ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/RRC/LITE/rrc_common.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/RRC/LITE/L2_interface.c.o
+[ 16%] [ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/lte_transport_init.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/main.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/ue_procedures.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/ra_procedures.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/l1_helpers.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/rar_tools.c.o
+[ 16%] /home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um.c:707:6: warning: function declaration isn’t a prototype [-Wstrict-prototypes]
+ void wifi_init_rlc(){
+      ^
+/home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um.c:727:6: warning: function declaration isn’t a prototype [-Wstrict-prototypes]
+ void get_wlan_index()
+      ^
+/home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um.c:738:6: warning: function declaration isn’t a prototype [-Wstrict-prototypes]
+ void get_mac()
+      ^
+/home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um.c: In function ‘get_ip’:
+/home/oai/Downloads/LWA/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um.c:863:2: warning: implicit declaration of function ‘inet_addr’ [-Wimplicit-function-declaration]
+  iph->saddr = inet_addr("192.168.130.119");
+  ^
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/eNB_scheduler.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/eNB_scheduler_dlsch.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/eNB_scheduler_ulsch.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/eNB_scheduler_mch.c.o
+[ 16%] [ 16%] [ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/eNB_scheduler_bch.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/eNB_scheduler_primitives.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/eNB_scheduler_RA.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/pre_processor.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/LAYER2/MAC/config.c.o
+[ 16%] Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/ENB_APP/enb_app.c.o
+Building C object CMakeFiles/L2.dir/home/oai/Downloads/LWA/openair2/ENB_APP/enb_config.c.o
+Linking C static library libL2.a
+[ 16%] Built target L2
+[ 98%] Built target RRC_LIB
+Linking C static library libPHY.a
+[100%] Built target PHY
+[100%] Generating CMakeFiles/messages.xml
+[100%] Generating CMakeFiles/messages_xml.h
+Scanning dependencies of target lte-softmodem-nos1
+[100%] [100%] [100%] [100%] Building C object CMakeFiles/lte-softmodem-nos1.dir/home/oai/Downloads/LWA/targets/RT/USER/lte-ue.c.o
+[100%] [100%] Building C object CMakeFiles/lte-softmodem-nos1.dir/home/oai/Downloads/LWA/targets/RT/USER/lte-enb.c.o
+[100%] Building C object CMakeFiles/lte-softmodem-nos1.dir/home/oai/Downloads/LWA/targets/RT/USER/lte-softmodem.c.o
+Building C object CMakeFiles/lte-softmodem-nos1.dir/home/oai/Downloads/LWA/targets/SIMU/USER/init_lte.c.o
+Building C object CMakeFiles/lte-softmodem-nos1.dir/home/oai/Downloads/LWA/openair1/SIMULATION/ETH_TRANSPORT/netlink_init.c.o
+Building C object CMakeFiles/lte-softmodem-nos1.dir/home/oai/Downloads/LWA/targets/COMMON/create_tasks.c.o
+Building C object CMakeFiles/lte-softmodem-nos1.dir/home/oai/Downloads/LWA/openair1/PHY/TOOLS/lte_phy_scope.c.o
+Linking C executable lte-softmodem-nos1
+[100%] Built target lte-softmodem-nos1

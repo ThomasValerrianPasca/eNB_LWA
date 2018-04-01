@@ -1,0 +1,48 @@
+[100%] /home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/netlink.c
+make[4]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/common.c: In function ‘nas_COMMON_receive’:
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/common.c:70:19: warning: unused variable ‘check’ [-Wunused-variable]
+   uint16_t *cksum,check;
+                   ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/common.c:70:13: warning: unused variable ‘cksum’ [-Wunused-variable]
+   uint16_t *cksum,check;
+             ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/common.c:66:43: warning: unused variable ‘ifaddr’ [-Wunused-variable]
+   unsigned char /**addr,*/ *daddr,*saddr,*ifaddr /*,sn*/;
+                                           ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/common.c:66:36: warning: unused variable ‘saddr’ [-Wunused-variable]
+   unsigned char /**addr,*/ *daddr,*saddr,*ifaddr /*,sn*/;
+                                    ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/common.c:66:29: warning: unused variable ‘daddr’ [-Wunused-variable]
+   unsigned char /**addr,*/ *daddr,*saddr,*ifaddr /*,sn*/;
+                             ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/common.c:60:19: warning: unused variable ‘osaddr’ [-Wunused-variable]
+   uint32_t odaddr,osaddr;
+                   ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/common.c:60:12: warning: unused variable ‘odaddr’ [-Wunused-variable]
+   uint32_t odaddr,osaddr;
+            ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/ioctl.c: In function ‘nas_ioCTL_cx_list_request’:
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/ioctl.c:108:1: warning: the frame size of 3088 bytes is larger than 1024 bytes [-Wframe-larger-than=]
+ }
+ ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/ioctl.c: In function ‘nas_ioCTL_class_list_request’:
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/ioctl.c:451:1: warning: the frame size of 1816 bytes is larger than 1024 bytes [-Wframe-larger-than=]
+ }
+ ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/classifier.c: In function ‘nas_CLASS_cx6’:
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/classifier.c:413:20: warning: assignment makes pointer from integer without a cast [enabled by default]
+           if ((dst = ((struct iphdr*)(skb_network_header(skb)))->daddr) == 0) {
+                    ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/classifier.c: In function ‘nas_CLASS_cx4’:
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/classifier.c:478:14: warning: comparison between pointer and integer [enabled by default]
+     if (daddr!=NULL) {
+              ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/tool.c: In function ‘print_TOOL_pk_all’:
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/tool.c:682:24: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+     print_TOOL_pk_ipv6((struct ipv6hdr *)skb->network_header);
+                        ^
+/home/oai/Downloads/LWA/openair2/NETWORK_DRIVER/MESH/tool.c:686:24: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+     print_TOOL_pk_ipv4((struct iphdr *)skb->network_header);
+                        ^
+[100%] Built target nasmesh
